@@ -1,2 +1,9 @@
-# pynetworkutils
-Not really sure what I'm doing with this yet but it will be a fun ongoing project to see what kind of cool features I can come up with.
+# pycmdtopdf
+takes a command line command and generates a pdf file from the output
+
+# Example
+```
+python app.py ls -a
+```
+
+This will generate a pdf document with the content from the ls -a command.
