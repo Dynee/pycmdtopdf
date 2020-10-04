@@ -1,5 +1,5 @@
 # pycmdtopdf
-takes a command line command and generates a pdf file from the output
+takes a command line arguments and generates a pdf file from the output
 
 # Example
 ```
