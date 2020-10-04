@@ -19,3 +19,5 @@ requirements.txt
 ```
 
 This will generate a pdf and a text file with the content from the ls -a command.
+
+Ideal usage would be if you want to share the output of a command with another person via email or some other means.
